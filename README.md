@@ -39,3 +39,37 @@ Euclidean Distance
 Compare with Validated Threshold
      ↓
 GOOD / DEFECT
+
+---
+
+## 📸 Application Demo
+
+### 🔍 Defect Detection Result
+
+The application analyzes an uploaded industrial image and provides an anomaly score compared with the validated threshold.
+
+![Defect Detection Result](docs/screenshots/inspection-result.png)
+
+### 🔥 Defect Localization
+
+The anomaly heatmap provides visual guidance about regions with stronger local feature deviations.
+
+![Defect Localization Heatmap](docs/screenshots/defect-localization.png)
+
+------
+
+## 📸 Application Demo
+
+### 🔍 Defect Detection Result
+
+The application analyzes an uploaded industrial image and provides an anomaly score compared with the validated threshold.
+
+![Defect Detection Result](docs/screenshots/inspection-result.png)
+
+### 🔥 Defect Localization
+
+The anomaly heatmap provides visual guidance about regions with stronger local feature deviations.
+
+![Defect Localization Heatmap](docs/screenshots/defect-localization.png)
+
+---
